@@ -2,7 +2,7 @@
  *
  * Driver class: Main
  * @author Rainier Getuaban, David Cuevas, Ernesto Diaz, Josh Reyes
- *
+ * Designed to test out the project, in the future a driver class should be created.
  */
 import java.util.Scanner;
 
