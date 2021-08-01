@@ -4,7 +4,7 @@
  * @author Rainier Getuaban, David Cuevas, Ernesto Diaz, Josh Reyes
  *
  */
-public abstract class MineralObject extends TerraObject{
+public abstract class MineralObject extends TerraObject{ //implements
 	private String name;
 	
 	public void setName(String name) {
