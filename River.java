@@ -7,7 +7,7 @@
 import java.util.*;
 
 //impact 10 to 60
-public class River extends WaterObject {
+public class River extends WaterObject { //inherits
 	public River() {
 		setImpact();
 		setType();
