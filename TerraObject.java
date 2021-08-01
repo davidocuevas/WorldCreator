@@ -5,7 +5,7 @@
  *
  */
 public abstract class TerraObject {
-	protected int impact;	
+	protected int impact;	//imutable
 	protected String type;
 	protected String name;
 	
